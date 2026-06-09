@@ -1,0 +1,5 @@
+# AutKompute requirements
+# Core computation uses only Python standard library (itertools, random)
+# Optional: networkx for graph visualization
+
+networkx>=3.0
